@@ -1,0 +1,3 @@
+# generate requirements
+pip install pipreqs
+pipreqs .
